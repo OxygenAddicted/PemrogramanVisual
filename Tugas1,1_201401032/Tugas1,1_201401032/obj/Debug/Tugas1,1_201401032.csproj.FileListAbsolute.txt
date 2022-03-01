@@ -1,0 +1,6 @@
+C:\Users\user\Documents\SharpDevelop Projects\Tugas1,1_201401032\Tugas1,1_201401032\bin\Debug\Tugas1,1_201401032.exe.config
+C:\Users\user\Documents\SharpDevelop Projects\Tugas1,1_201401032\Tugas1,1_201401032\bin\Debug\Tugas1,1_201401032.exe
+C:\Users\user\Documents\SharpDevelop Projects\Tugas1,1_201401032\Tugas1,1_201401032\bin\Debug\Tugas1,1_201401032.pdb
+C:\Users\user\Documents\SharpDevelop Projects\Tugas1,1_201401032\Tugas1,1_201401032\obj\Debug\Tugas1,1_201401032.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SharpDevelop Projects\Tugas1,1_201401032\Tugas1,1_201401032\obj\Debug\Tugas1,1_201401032.exe
+C:\Users\user\Documents\SharpDevelop Projects\Tugas1,1_201401032\Tugas1,1_201401032\obj\Debug\Tugas1,1_201401032.pdb

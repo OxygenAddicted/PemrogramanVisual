@@ -1,0 +1,6 @@
+C:\Users\user\Documents\SharpDevelop Projects\Tugas1,1_201401032\Tugas1,1_201401032\bin\Debug\BelajarCSharp.cs.exe.config
+C:\Users\user\Documents\SharpDevelop Projects\Tugas1,1_201401032\Tugas1,1_201401032\bin\Debug\BelajarCSharp.cs.exe
+C:\Users\user\Documents\SharpDevelop Projects\Tugas1,1_201401032\Tugas1,1_201401032\bin\Debug\BelajarCSharp.cs.pdb
+C:\Users\user\Documents\SharpDevelop Projects\Tugas1,1_201401032\Tugas1,1_201401032\obj\Debug\BelajarCSharp.cs.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SharpDevelop Projects\Tugas1,1_201401032\Tugas1,1_201401032\obj\Debug\BelajarCSharp.cs.exe
+C:\Users\user\Documents\SharpDevelop Projects\Tugas1,1_201401032\Tugas1,1_201401032\obj\Debug\BelajarCSharp.cs.pdb
