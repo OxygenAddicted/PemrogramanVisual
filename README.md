@@ -1,4 +1,4 @@
-# Mata Kuliah Pemograman Visual
+# Mata Kuliah: Pemograman Visual
 ## Dosen Pengampu: T. Henny Febriana Harumy, S.Kom, M.Kom
 
 **Nama: Al Imamul Luthfi**  
