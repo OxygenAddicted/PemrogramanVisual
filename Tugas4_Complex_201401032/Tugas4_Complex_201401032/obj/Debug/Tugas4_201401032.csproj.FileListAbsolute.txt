@@ -1,0 +1,8 @@
+C:\Users\user\Documents\SharpDevelop Projects\Tugas4_201401032\Tugas4_201401032\obj\Debug\Tugas4_201401032.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SharpDevelop Projects\Tugas4_201401032\Tugas4_201401032\obj\Debug\Tugas4_201401032.MainForm.resources
+C:\Users\user\Documents\SharpDevelop Projects\Tugas4_201401032\Tugas4_201401032\obj\Debug\Tugas4_201401032.csproj.GenerateResource.Cache
+C:\Users\user\Documents\SharpDevelop Projects\Tugas4_201401032\Tugas4_201401032\bin\Debug\Tugas4_201401032.exe.config
+C:\Users\user\Documents\SharpDevelop Projects\Tugas4_201401032\Tugas4_201401032\bin\Debug\Tugas4_201401032.exe
+C:\Users\user\Documents\SharpDevelop Projects\Tugas4_201401032\Tugas4_201401032\bin\Debug\Tugas4_201401032.pdb
+C:\Users\user\Documents\SharpDevelop Projects\Tugas4_201401032\Tugas4_201401032\obj\Debug\Tugas4_201401032.exe
+C:\Users\user\Documents\SharpDevelop Projects\Tugas4_201401032\Tugas4_201401032\obj\Debug\Tugas4_201401032.pdb
