@@ -1,0 +1,8 @@
+C:\Users\user\Documents\SharpDevelop Projects\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\Kalkulator Sederhana.exe.config
+C:\Users\user\Documents\SharpDevelop Projects\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\Kalkulator Sederhana.exe
+C:\Users\user\Documents\SharpDevelop Projects\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\Kalkulator Sederhana.pdb
+C:\Users\user\Documents\SharpDevelop Projects\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\Kalkulator Sederhana.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SharpDevelop Projects\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\Kalkulator_Sederhana.MainForm.resources
+C:\Users\user\Documents\SharpDevelop Projects\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\Kalkulator Sederhana.csproj.GenerateResource.Cache
+C:\Users\user\Documents\SharpDevelop Projects\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\Kalkulator Sederhana.exe
+C:\Users\user\Documents\SharpDevelop Projects\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\Kalkulator Sederhana.pdb
