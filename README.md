@@ -3,4 +3,4 @@
 
 **Nama: Al Imamul Luthfi**  
 **NIM: 201401032**  
-**Kom: A**
+**KOM: A**
