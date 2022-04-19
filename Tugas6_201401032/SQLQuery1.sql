@@ -17,9 +17,6 @@ INSERT INTO [dbo].[TBL_BARANG]
            ,'Unit')
 GO
 
-USE [Kasir]
-GO
-
 INSERT INTO [dbo].[TBL_BARANG]
            ([KodeBarang]
            ,[NamaBarang]
@@ -34,9 +31,6 @@ INSERT INTO [dbo].[TBL_BARANG]
            ,'1850000'
            ,'10'
            ,'Unit')
-GO
-
-USE [Kasir]
 GO
 
 INSERT INTO [dbo].[TBL_BARANG]
