@@ -1,1 +1,3 @@
-"Printer Epson" dan "Printer Epson_Mod" terhapus secara bersamaan karena mekanisme dari tombol hapus adalah berdasarkan dari kode barang sebagai primary key-nya, dan keduanya memiliki kode barang yang sama yaitu "A001".
+# Tugas 9
+
+Membuat button yang berfungsi untuk menghapus data.
