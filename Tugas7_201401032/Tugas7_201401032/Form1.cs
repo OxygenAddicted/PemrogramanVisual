@@ -24,9 +24,22 @@ namespace Tugas7_201401032
             InitializeComponent();
         }
 
-        private void dataGridView1_CellContectClick(object sender, DataGridViewCellEventArgs e)
+        private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
         {
-
+            try
+            {
+                DataGridViewRow row = dataGridView1.Rows[e.RowIndex];
+                textBoxKodeBarang.Text = row.Cells["KodeBarang"].Value.ToString();
+                textBoxNamaBarang.Text = row.Cells["NamaBarang"].Value.ToString();
+                textBoxHargaJual.Text = row.Cells["HargaJual"].Value.ToString();
+                textBoxHargaBeli.Text = row.Cells["HargaBeli"].Value.ToString();
+                textBoxJumlah.Text = row.Cells["JumlahBarang"].Value.ToString();
+                comboBoxSatuan.Text = row.Cells["SatuanBarang"].Value.ToString();
+            }
+            catch (Exception e1)
+            {
+                MessageBox.Show(e1.ToString());
+            }
         }
 
         private void Form1_Load(object sender, EventArgs e)
